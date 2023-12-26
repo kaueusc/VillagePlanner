@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/tab_map"
+        android:title="@string/tab_map_title"
+        android:icon="@drawable/ic_location"
+        />
+    <item
+        android:id="@+id/tab_reminders"
+        android:title="@string/tab_reminders_title"
+        android:icon="@drawable/ic_clipboard_list"
+        />
+    <item
+        android:id="@+id/tab_profile"
+        android:title="@string/tab_profile_title"
+        android:icon="@drawable/ic_person"
+        />
+</menu>

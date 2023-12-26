@@ -1,0 +1,32 @@
+
+F
+java:S1604ÿ"(Make this anonymous inner class a lambda(ßñÅ¸8Ã†£Å0
+€
+java:S1488æ"bImmediately return this expression instead of assigning it to the temporary variable "markerIcon".(¿¸¼ğ8¨Ã†£Å0
+¤
+java:S1186€"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(÷Á‚Ëúÿÿÿÿ8“¾î¥Å0
+
+java:S1450O"_Remove the "geofencingClient" field and declare it as a local variable in the relevant methods.(ıƒ±†ıÿÿÿÿ8”¾î¥Å0
+y
+java:S3252k"WUse static access with "androidx.core.content.ContextCompat" for "checkSelfPermission".(Ë¬Öêıÿÿÿÿ8ŠÅ†£Å0
+y
+java:S3252k"WUse static access with "androidx.core.content.ContextCompat" for "checkSelfPermission".(Ë¬Öêıÿÿÿÿ8¨¾î¥Å0
+T
+java:S1135l"2Complete the task associated to this TODO comment.(áÃæùÿÿÿÿ8©¾î¥Å0
+^	java:S125…"<This block of commented-out lines of code should be removed.(ì‡ÏÎşÿÿÿÿ8®¾î¥Å0
+X	java:S125’"<This block of commented-out lines of code should be removed.(óúå/8±¾î¥Å0
+J
+java:S1602È",Remove useless curly braces around statement(æº–à8Å†£Å0
+s
+java:S3252Ì"PUse static access with "android.view.ViewGroup$LayoutParams" for "MATCH_PARENT".(Çƒıÿÿÿÿ8ƒÅ†£Å0
+s
+java:S3252Í"PUse static access with "android.view.ViewGroup$LayoutParams" for "WRAP_CONTENT".(¤¡çñşÿÿÿÿ8ƒÅ†£Å0
+m
+java:S1874İ"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(Û›ë´øÿÿÿÿ8…Å†£Å0
+`
+java:S1874Ş"BRemove this use of "onRequestPermissionsResult"; it is deprecated.(Öƒà8†Å†£Å0
+z
+java:S3252ô"WUse static access with "androidx.core.content.ContextCompat" for "checkSelfPermission".(î’Ø¼ıÿÿÿÿ8Ç¾î¥Å0
+[	java:S106“"9Replace this use of System.out or System.err by a logger.(¿ú–…ùÿÿÿÿ8Å†£Å0
+V
+java:S1068O"4Remove this unused "geofencingClient" private field.(ıƒ±†ıÿÿÿÿ8Ş¾î¥Å0

@@ -1,0 +1,44 @@
+
+P
+java:S1141("5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+C
+java:S1604""(Make this anonymous inner class a lambda(€á€‹şÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÊË«¬ıÿÿÿÿ
+z
+java:S1149Q"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(¨âàøÿÿÿÿ
+O
+java:S1118":Add a private constructor to hide the implicit public one.(şó˜w
+D
+java:S1481"/Remove this unused "connection" local variable.(œé‰K
+S	java:S106!"9Replace this use of System.out or System.err by a logger.(ŞÆ­Ûşÿÿÿÿ
+Z
+java:S21474"DCombine this catch with the one at line 50, which has the same body.(ä ¹€
+t
+java:S21424"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+E
+java:S1874&"/Remove this use of "execute"; it is deprecated.(Öã×œ
+A
+java:S1874&"+Remove this use of "get"; it is deprecated.(Öã×œ
+z
+java:S1149Q"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(¨âàøÿÿÿÿ
+G
+java:S1874<"1Remove this use of "AsyncTask"; it is deprecated.(¡İ¦‚
+`
+java:S1874="JDon't override a deprecated method or explicitly mark it as "@Deprecated".(ËĞƒ
+>
+java:S1185="(Remove this method to simply inherit it.(ËĞƒ
+P
+java:S1161=":Add the "@Override" annotation above this method signature(ËĞƒ
+I
+java:S1874>"4Remove this use of "onPreExecute"; it is deprecated.(”•P
+Z
+java:S2147]"DCombine this catch with the one at line 91, which has the same body.(ï­£Ä
+E
+java:S2093G"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+_
+java:S1874o"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(­–ÀS
+=
+java:S1185o"(Remove this method to simply inherit it.(­–ÀS
+J
+java:S1874p"5Remove this use of "onPostExecute"; it is deprecated.(úñ†
+Hsecrets:S6334 "/Make sure this Google API Key is not disclosed.(ÒÔğÒ

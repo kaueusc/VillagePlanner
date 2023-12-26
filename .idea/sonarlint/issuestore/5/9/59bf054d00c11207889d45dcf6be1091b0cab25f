@@ -1,0 +1,10 @@
+
+{
+java:S1488"`Immediately return this expression instead of assigning it to the temporary variable "myBitmap".(ˆÜ¬¦ûÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÊË«¬ýÿÿÿÿ
+L
+java:S1874"1Remove this use of "AsyncTask"; it is deprecated.(–¥ñ¬úÿÿÿÿ
+`
+java:S1874'"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(…«èÑ
+J
+java:S1874("5Remove this use of "onPostExecute"; it is deprecated.(úñ†

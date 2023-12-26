@@ -1,0 +1,17 @@
+
+J
+java:S1172."(Remove this unused method parameter "v".(Ùı²éÿÿÿÿÿ8½•Å0
+J
+java:S11723"(Remove this unused method parameter "v".(µã‚ ÿÿÿÿÿ8ÆßÛ£Å0
+Z	java:S106?"9Replace this use of System.out or System.err by a logger.(›Ğ°‘úÿÿÿÿ8èÆ†£Å0
+Z	java:S106D"9Replace this use of System.out or System.err by a logger.(¶ÉÌùÿÿÿÿ8ÉßÛ£Å0
+E
+java:S1172V"(Remove this unused method parameter "v".(û¸•8ÊßÛ£Å0
+[
+java:S1874\">Remove this use of "startActivityForResult"; it is deprecated.(‘ôÓ²8‚½•Å0
+l
+java:S1874`"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(ÉÎÍïıÿÿÿÿ8‚½•Å0
+S
+java:S1874i"1Remove this use of "getBitmap"; it is deprecated.(“º˜÷şÿÿÿÿ8ƒ½•Å0
+‰
+java:S3252n"gUse static access with "com.google.android.material.snackbar.BaseTransientBottomBar" for "LENGTH_LONG".(İ˜İ½şÿÿÿÿ8„½•Å0

@@ -1,0 +1,10 @@
+<resources>
+    <string-array name="allPlacesSpinner">
+        <item>Trader Joe\'s</item>
+        <item>Target</item>
+        <item>Dulce</item>
+        <item>CAVA</item>
+        <item>Insomnia Cookies</item>
+        <item>Stout Burgers &amp; Beers</item>
+    </string-array>
+</resources>

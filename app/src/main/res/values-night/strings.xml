@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="are_you_sure_that_you_want_to_delete_this_reminder">Are you sure that you want to delete this reminder?</string>
+    <string name="deletion_confirmation">Delete confirmation</string>
+    <string name="cancel">Cancel</string>
+    <string name="yes">Yes</string>
+    <string name="deletion_success">Deletion success</string>
+</resources>
